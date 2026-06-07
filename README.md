@@ -6,8 +6,12 @@ In questa fase la repository contiene solo documentazione progettuale raccolta n
 
 Il gameplay principale è pensato come browser game gestionale in stile OGame: il giocatore seleziona attività da menu, attende il tempo richiesto e riceve un risultato automatico.
 
-L'unica area potenzialmente interattiva in tempo reale riguarda la sfera sociale e di svago, che deve restare separata dalla progressione principale.
+Il progetto è concepito per premiare pazienza, pianificazione, continuità e intelligenza strategica, evitando di spingere il giocatore a restare connesso per troppe ore.
+
+La sfera sociale e di svago deve restare facoltativa, leggera e separata dalla progressione principale, senza diventare un'attività competitiva o centrale.
 
 Nomi, Arti, sistemi, terminologia, mondo e regole sono ancora in definizione e potranno essere aggiornati durante l'ideazione.
 
 Il progetto può ispirarsi al genere dei browser game gestionali e ad archetipi fantasy/anime marziali, ma deve evitare qualsiasi copia diretta di nomi, personaggi, tecniche, simboli, clan, organizzazioni o trame di opere esistenti.
+
+La monetizzazione futura, se presente, dovrà rimanere moderata, con vantaggi limitati e senza incoraggiare spese eccessive o modelli pay-to-win aggressivi.
