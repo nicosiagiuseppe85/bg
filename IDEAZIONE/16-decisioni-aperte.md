@@ -19,7 +19,7 @@ Stato: bozza iniziale aggiornata
 11. Regole dettagliate di Allenamento.
 12. Regole dettagliate di Lettura.
 13. Nome definitivo e funzione precisa della modalità Svago.
-14. Livello di interattività consentito nella parte sociale.
+14. Livello minimo di interattività consentito nella parte sociale.
 15. Peso del PvP.
 16. Guerre tra clan e relative regole.
 17. Economia e anti-abuso del Negozio.
@@ -31,6 +31,8 @@ Stato: bozza iniziale aggiornata
 23. Nome dei ranghi.
 24. Sistema reputazione.
 25. Eventuali limiti tecnici specifici per smartphone.
+26. Forma esatta della monetizzazione moderata.
+27. Meccaniche di tutela per evitare dipendenza da presenza continua.
 
 ## Prime decisioni già emerse
 
@@ -39,3 +41,5 @@ Stato: bozza iniziale aggiornata
 - il modello a classi rigide è stato superato in favore delle Arti
 - sono già emersi i nomi Arte Spirituale, Arte Scrittoria e Arte dell'Ingegno
 - Missioni, Allenamento, Lettura, Svago e Negozio sono attualmente i principali pilastri funzionali
+- il gioco deve premiare soprattutto strategia, pazienza e continuità
+- la monetizzazione futura dovrà restare moderata e non predatoria
